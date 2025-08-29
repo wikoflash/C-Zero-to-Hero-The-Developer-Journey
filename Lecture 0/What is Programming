@@ -1,0 +1,10 @@
+Chapter 1: What is Programming?
+EN: A program is a set of instructions that a computer follows step by step. The compiler translates human-readable code into machine code. The runtime executes it.
+
+KA: პროგრამა არის ინსტრუქციების ნაკრები, რომელსაც კომპიუტერი ასრულებს ნაბიჯ-ნაბიჯ. კომპილატორი თარგმნის ადამიანის მიერ წაკითხვად კოდს მანქანის კოდად. რანთაიმი მას ასრულებს.
+
+
+Chapter 2: Algorithms & Logical Problem Solving
+EN: An algorithm is a step-by-step procedure to solve a problem. It doesn’t need code – you can write it in plain steps.
+
+KA: ალგორითმი არის ნაბიჯ-ნაბიჯ პროცედურა პრობლემის გადასაჭრელად. მას კოდი არ სჭირდება – შეიძლება უბრალო ნაბიჯებით ჩამოწერა.
