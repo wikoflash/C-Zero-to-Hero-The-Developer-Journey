@@ -1,0 +1,53 @@
+
+!. Git Hub Desktop 
+
+
+
+
+
+
+4. Mini Git Cheat Sheet  / მინი ჩითშითი TerminaL
+
+Create git_cheatsheet.txt with this content:
+
+EN:
+
+git status – what changed?
+
+git add <file> – stage a file
+
+git commit -m "message" – save a snapshot
+
+git push – upload to GitHub
+
+git pull – download + merge
+
+git fetch – check remote without merging
+
+git log – see commit history
+
+git branch – list branches
+
+git checkout <branch> – switch branch
+
+KA:
+
+git status – რა შეიცვალა?
+
+git add <file> – ფაილის დამატება (stage)
+
+git commit -m "message" – სნეპშოტის შენახვა
+
+git push – ატვირთვა GitHub‑ზე
+
+git pull – ჩამოტანა + შერწყმა
+
+git fetch – რემოუთის შემოწმება (განახლება)
+
+git log – კომიტების ისტორია
+
+git branch – ბრენჩების სია
+
+git checkout <branch> – სხვა ბრენჩზე გადასვლა
+
+Tip/რჩევა: Use GitHub Desktop if the terminal feels heavy – same concepts, buttons instead of commands.
